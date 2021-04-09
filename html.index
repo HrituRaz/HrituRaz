@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1
+{
+background-color: rgb(220, 20, 20);
+margin: 8px;
+}
+h4
+{
+  background-color: rgb(166, 199, 21);
+}
+h3
+{
+  background-color: orangered;
+  text-align: center;
+}
+h2 
+{
+  background-color: red;
+  border: 10px solid rgb(9, 255, 0);
+  padding: 10px 1px;
+}
+
+
+
+</style>
+</head>
+<body style="background-color:powderblue;">
+<h1>The effects of virus variants on COVID-19 vaccines</h1>
+
+<h3>1 March 2021</h3>
+
+<h4>This article is part of a series of explainers on vaccine development and distribution. Learn more about vaccines – from how they work and how they’re made to ensuring safety and equitable access – in WHO’s Vaccines Explained series.
+
+    All viruses – including SARS-CoV-2, the virus that causes COVID-19 – evolve over time. When a virus replicates or makes copies of itself, it sometimes changes a little bit, which is normal for a virus. These changes are called “mutations”. A virus with one or more new mutations is referred to as a “variant” of the original virus.</h4>
+    
+    
+    
+    <h2>What causes a virus to change to a new variant?</h2>
+
+
+<h4>When a virus is widely circulating in a population and causing many infections, the likelihood of the virus mutating increases. The more opportunities a virus has to spread, the more it replicates – and the more opportunities it has to undergo changes.
+
+
+    Most viral mutations have little to no impact on the virus’s ability to cause infections and disease. But depending on where the changes are located in the virus’s genetic material, they may affect a virus’s properties, such as transmission (for example, it may spread more or less easily) or severity (for example, it may cause more or less severe disease). </h4>
+
+
+
+</body>
+</html>
